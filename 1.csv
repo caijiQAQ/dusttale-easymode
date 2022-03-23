@@ -1,0 +1,43 @@
+0,sanshead,Tired1,,,,,,,
+0,CombatZoneResize,133,251,508,391,TLResume,,,
+0,HeartTeleport,320,376,,,,,,
+0,HeartMode,1,,,,,,,
+0,TLPause,,,,,,,,
+0,SansText,you can't...,,,,,,,
+0,SansText,you can't be here yet£¡,,,,,,,
+0,SansText,i'm not ready£¡,,,,,,,
+0,SansText,i'm not...,,,,,,,
+0,SansText,i don't have enough...,,,,,,,
+0,SansText,...,,,,,,,
+0.8,sanshead,noeyes1,,,,,,,
+0.6,sanshead,noeyes,,,,,,,
+0.4,sanshead,BlueEye,,,,,,,
+0,SansText,DETERMINATION,,,,,,,
+0,sanshead,Default,,,,,,,
+0,music,mus_zz_megalovania,,,,,,,
+0,bone,0,282.25,92.5,0,100,10,1,0
+0,bone,-140,282.25,92.5,0,100,10,1,0
+0,bone,-240,282.25,92.5,0,100,10,1,0
+0,bone,-340,282.25,92.5,0,100,10,1,0
+0,bone,-440,282.25,92.5,0,100,10,1,0
+0,bone,-540,282.25,92.5,0,100,10,1,0
+,,,,,,,,,0
+0,bone,640,374.75,82.5,180,100,10,1,0
+0,bone,780,374.75,82.5,180,100,10,1,0
+0,bone,920,374.75,82.5,180,100,10,1,0
+0,bone,1020,374.75,82.5,180,100,10,1,0
+0,bone,1120,374.75,82.5,180,100,10,1,0
+0,bone,1220,374.75,82.5,180,100,10,1,0
+2,bonev,133,251,140,0,200,1,,
+0,bonev,508,251,140,2,200,2,,
+0,sound,flash,,,,,,,
+2,bonev,133,251,140,0,200,2,,
+0,bonev,508,251,140,2,200,1,,
+0,sound,flash,,,,,,,
+2,bonev,133,251,140,0,200,2,,
+0,bonev,508,251,140,2,200,2,,
+0,sound,flash,,,,,,,
+2,bonev,133,251,140,0,200,2,,
+0,bonev,508,251,140,2,200,2,,
+0,sound,flash,,,,,,,
+2,EndAttack,,,,,,,,
