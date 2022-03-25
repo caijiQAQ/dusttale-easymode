@@ -14,7 +14,7 @@
 0,bone,320,304,190,0,0,150,0,0
 0,bone,320,304,190,0,0,150,0,90
 
-0.8,SET,Loop,6,,,,,,
+0.8,SET,Loop,4,,,,,,
 0,SUB,Loop,$Loop,1,,,,,
 1,GetHeartPos,HeartX,HeartY,,,,,,
 0,rnd,³õÊ¼×ø±êx,640,,,,,,
