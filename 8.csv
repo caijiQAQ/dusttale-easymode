@@ -34,10 +34,10 @@
 0.5,CombatZoneResize,133,251,508,391,,,,
 0,CombatZoneSpeed,80,,,,,,,
 0,GetHeartPos,HeartX,HeartY,,,,,,
-0,bone,$HeartX,0,30,90,200,200,0,0
-0,bone,$HeartX,480,30,270,200,200,0,0
-0,bone,0,$HeartY,30,0,200,200,0,0
-0,bone,640,$HeartY,30,180,200,200,0,0
+0,bone,$HeartX,0,15,90,200,200,0,0
+0,bone,$HeartX,480,15,270,200,200,0,0
+0,bone,0,$HeartY,15,0,200,200,0,0
+0,bone,640,$HeartY,15,180,200,200,0,0
 0,GetHeartPos,HeartX,HeartY,,,,,,
 0,ANGLE,Ang,50,20,$HeartX,$HeartY,,,
 0,ANGLE,Ang2,590,20,$HeartX,$HeartY,,,
